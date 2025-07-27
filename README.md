@@ -1,6 +1,3 @@
-Here’s a detailed **GitHub project description** for your Netflix Data Visualization notebook that you can include in your repository `README.md`:
-
----
 
 ## 📊 Netflix Data Visualization Project
 
